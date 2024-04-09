@@ -1,3 +1,4 @@
 # The PySpark Chronicles: Adventures in Data Processing
-Exploring the ways in and out of PySpark
+Exploring the Enchanted World of PySpark
 ![Data Exploration](castle.jpeg)
+[Source:](https://huggingface.co/spaces/stabilityai/stable-diffusion)
