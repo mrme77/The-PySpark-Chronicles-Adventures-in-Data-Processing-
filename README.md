@@ -2,4 +2,4 @@
 Exploring the Enchanted World of PySpark
 ![Data Exploration](castle.jpeg)
 
-[Source:](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+[Huggingface](https://huggingface.co/spaces/stabilityai/stable-diffusion)
