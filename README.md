@@ -7,7 +7,7 @@
 <br>
 # Exploring the Enchanted World of PySpark
 
-Welcome to the "The PySpark Chronicles: Adventures in Data Processing" project! In this project, we delve into the powerful world of PySpark, a Python API for Apache Spark, to perform various data exploration and transformation tasks.
+Welcome to the "The PySpark Chronicles: Exploring Data Processing Adventures" project! Here, we embark on an exciting journey into the dynamic realm of PySpark, an intuitive Python API designed for Apache Spark. We try uncovering a multitude of data exploration, transformation endeavors and even take a sneak peak into ML classification task.
 
 ## Overview
 
@@ -19,6 +19,7 @@ This project aims to provide a beginner-friendly introduction to PySpark, focusi
 
 - **data_exploration.ipynb**: Jupyter Notebook containing basic commands for data exploration using PySpark.
 - **data_transformations.ipynb**: Jupyter Notebook demonstrating various data transformation operations in PySpark.
+- **data_preprocessing.ipynb**: Jupyter Notebook for processing dataset and encoding your target variable
 - **requirements.txt**: File listing the Python dependencies required to run the project.
 
 ## Getting Started
