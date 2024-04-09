@@ -7,7 +7,7 @@
 <br>
 # Exploring the Enchanted World of PySpark
 
-Welcome to the "Exploring the World of PySpark" project! In this project, we delve into the powerful world of PySpark, a Python API for Apache Spark, to perform various data exploration and transformation tasks.
+Welcome to the "The PySpark Chronicles: Adventures in Data Processing" project! In this project, we delve into the powerful world of PySpark, a Python API for Apache Spark, to perform various data exploration and transformation tasks.
 
 ## Overview
 
