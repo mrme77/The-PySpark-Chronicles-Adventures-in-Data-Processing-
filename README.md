@@ -20,7 +20,8 @@ This project aims to provide a beginner-friendly introduction to PySpark, focusi
 - **data_exploration.ipynb**: Jupyter Notebook containing basic commands for data exploration using PySpark.
 - **data_transformations.ipynb**: Jupyter Notebook demonstrating various data transformation operations in PySpark.
 - **data_preprocessing.ipynb**: Jupyter Notebook for processing dataset and encoding your target variable
-- **requirements.txt**: File listing the Python dependencies required to run the project.
+- **common_libraries.py**: File listing the Python dependencies required to run the project.
+- **project_functions.py**: File listing all functions required to run the project.
 
 ## Getting Started
 
