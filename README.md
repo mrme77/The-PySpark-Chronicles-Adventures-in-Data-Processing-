@@ -37,10 +37,17 @@ To run the code in this project, follow these steps:
 
 The project relies on the following Python packages:
 
-- pyspark
-- matplotlib
-- pandas
-
+```
+from pyspark.sql import SparkSession, DataFrame
+import os, logging, re
+from pyspark.sql import functions as F
+from pyspark.sql.functions import *  
+from pyspark.sql.types import * 
+from IPython.display import display
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+import numpy as np```
 You can install these dependencies by running `pip install -r requirements.txt`.
 
 ## License
