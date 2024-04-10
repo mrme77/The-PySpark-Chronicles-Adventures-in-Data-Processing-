@@ -33,7 +33,7 @@ To run the code in this project, follow these steps:
 3. Install the required Python dependencies using `pip install -r requirements.txt`.
 4. Open the Jupyter Notebooks `data_exploration.ipynb` and `data_transformations.ipynb` to explore and run the code.
 
-## Dependencies
+## Python Packages
 
 The project relies on the following Python packages:
 
@@ -48,7 +48,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import numpy as np```
-You can install these dependencies by running `pip install -r requirements.txt`.
+
 
 ## License
 
