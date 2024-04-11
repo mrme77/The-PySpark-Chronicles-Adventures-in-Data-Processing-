@@ -21,7 +21,7 @@ This project aims to provide a beginner-friendly introduction to PySpark, focusi
 - **data_transformations.ipynb**: Jupyter Notebook demonstrating various data transformation operations in PySpark.
 - **data_preprocessing.ipynb**: Jupyter Notebook for processing dataset and encoding your target variable
 - **common_libraries.py**: File listing the Python dependencies required to run the project.
-- **project_functions.py**: File listing all functions required to run the project.
+- **project_function.py**: File listing all functions required to run the project.
 - **crime_data.csv**: File which reflects incidents of crime in the City of Los Angeles dating back to 2020 (data.gov)
 
 ## Getting Started
