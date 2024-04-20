@@ -13,7 +13,7 @@ Welcome to the "The PySpark Chronicles: Exploring Data Processing Adventures" pr
 
 Apache Spark is a fast and general-purpose cluster computing system that provides high-level APIs in Java, Scala, and Python, and an optimized engine that supports general execution graphs. PySpark, the Python API for Spark, allows us to interact with Spark using Python.
 
-This project explores the crime dataset available at [Crime Data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present/resource/5eb6507e-fa82-4595-a604-023f8a326099). The dataset has 925720 rows and 28 coluns. The scope of this project is to provide a beginner-friendly introduction to PySpark, focusing on basic commands for data exploration and transformations.
+This project explores the crime dataset available at [Crime Data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present/resource/5eb6507e-fa82-4595-a604-023f8a326099). The dataset has 925720 rows and 28 colums. The scope of this project is to provide a beginner-friendly introduction to PySpark, focusing on basic commands for data exploration and transformations.
 
 ## Contents
 
