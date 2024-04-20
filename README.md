@@ -63,6 +63,8 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score
 from imblearn.over_sampling import SMOTE
 from pyspark.ml.feature import StandardScaler
 ```
+## Acknowledgment
+I would like to acknowledge Stackoverflow, ChatGPT, Google Bard as an instrumental aid in the development of this project.
 
 
 ## License
