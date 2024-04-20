@@ -31,7 +31,7 @@ To run the code in this project, follow these steps:
 1. Ensure you have Python and Jupyter Notebook installed on your system.
 2. Clone this repository to your local machine.
 3. Install the required Python dependencies using `pip install -r requirements.txt`.
-4. Open the Jupyter Notebooks `data_exploration.ipynb` and `data_transformations.ipynb` to explore and run the code.
+4. Open the Jupyter Notebooks `PySparkChronicles_Chapter1_DataExploration.ipynb`,`PySparkChronicles_Chapter2_DataCuration.ipynb`, and `PySparkChronicles_Chapter3_DataProcessing.ipynb` to explore and run the code.
 
 ## Python Packages
 
