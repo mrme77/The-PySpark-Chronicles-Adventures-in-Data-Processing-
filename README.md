@@ -7,13 +7,13 @@
 <br>
 # Exploring the Enchanted World of PySpark
 
-Welcome to the "The PySpark Chronicles: Exploring Data Processing Adventures" project! Here, we embark on an exciting journey into the dynamic realm of PySpark, an intuitive Python API designed for Apache Spark. We try uncovering a multitude of data exploration, transformation endeavors and even take a sneak peak into ML classification task.
+Welcome to the "The PySpark Chronicles: Exploring Data Processing Adventures" project! Here, we embark on an exciting journey into the dynamic realm of PySpark, an intuitive Python API designed for Apache Spark. We try uncovering a multitude of data exploration, transformation endeavors and even take a sneak peak into ML libraries.
 
 ## Overview
 
 Apache Spark is a fast and general-purpose cluster computing system that provides high-level APIs in Java, Scala, and Python, and an optimized engine that supports general execution graphs. PySpark, the Python API for Spark, allows us to interact with Spark using Python.
 
-This project aims to provide a beginner-friendly introduction to PySpark, focusing on basic commands for data exploration and transformations.
+This project explores the crime dataset available at [Crime Data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present/resource/5eb6507e-fa82-4595-a604-023f8a326099). The dataset 925720 rows and 28 coluns. The scope of this project is to provide a beginner-friendly introduction to PySpark, focusing on basic commands for data exploration and transformations.
 
 ## Contents
 
