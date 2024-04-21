@@ -12,7 +12,7 @@ Welcome to the "The PySpark Chronicles: Exploring Data Processing Adventures" pr
 
 Apache Spark is a fast and general-purpose cluster computing system that provides high-level APIs in Java, Scala, and Python, and an optimized engine that supports general execution graphs. PySpark, the Python API for Spark, allows us to interact with Spark using Python.
 
-This project delves into the analysis of a crime dataset available at [Crime Data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present/resource/5eb6507e-fa82-4595-a604-023f8a326099), which consists of 925,720 records and 28 columns. The aim is to provide a beginner-friendly guide to using PySpark, concentrating on elementary commands for data exploration and manipulation. Once the data preprocessing phase is complete, the refined data is utilized to train a logistic regression model. This model predicts whether incidents classify as robbery or non-robbery, based on various attributes. The project concludes by evaluating the model's effectiveness and displaying the accuracy of its predictions, offering a glimpse into machine learning to underscore the significance of the preparatory data handling stages.
+This project delves into the analysis of a crime dataset available at [Crime Data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present/resource/5eb6507e-fa82-4595-a604-023f8a326099), which consists of 925,720 records and 28 columns. The aim is to provide a beginner-friendly guide to using PySpark, concentrating on elementary commands for data exploration and manipulation. Once the data preprocessing phase is complete, the refined data is utilized to train a logistic regression model. This model attempt to classify crime types as robbery or non-robbery, based on various attributes. The project concludes by evaluating the model's effectiveness and displaying the accuracy of its predictions, offering a glimpse into machine learning to underscore the significance of the preparatory data handling stages.
 
 
 
@@ -24,7 +24,8 @@ This project delves into the analysis of a crime dataset available at [Crime Dat
 - **PySparkChronicles_Chapter3_DataPreprocessingAndML.ipynb**: Jupyter Notebook for processing dataset and encoding your target variable
 - **common_libraries.py**: File listing the Python dependencies required to run the project.
 - **project_function.py**: File listing all functions required to run the project.
-- **crime_data.csv**: File which reflects incidents of crime in the City of Los Angeles dating back to 2020 (data.gov)
+- **crime_data.csv**: File which reflects incidents of crime in the City of Los Angeles dating back to 2020 (data.gov).
+- **SparkOverview**: A quick note about Spark Partitions and Infrastructure generated with Google Gemini.
 
 ## Getting Started
 
