@@ -25,7 +25,7 @@ This project delves into the analysis of a crime dataset available at [Crime Dat
 - **common_libraries.py**: File listing the Python dependencies required to run the project.
 - **project_function.py**: File listing all functions required to run the project.
 - **crime_data.csv**: File which reflects incidents of crime in the City of Los Angeles dating back to 2020 (data.gov).
-- **SparkOverview**: A quick note about Spark Partitions and Infrastructure generated with Google Gemini.
+- **SparkOverview.md**: A quick note about Spark Partitions and Infrastructure generated with Google Gemini.
 
 ## Getting Started
 
