@@ -32,7 +32,7 @@ To run the code in this project, follow these steps:
 
 1. Ensure you have Python and Jupyter Notebook installed on your system.
 2. Clone this repository to your local machine.
-3. Open the Jupyter Notebooks `PySparkChronicles_Chapter1_DataExploration.ipynb`,`PySparkChronicles_Chapter2_DataCuration.ipynb`, and `PySparkChronicles_Chapter3_DataProcessingAndML.ipynb`,`project_functions.py`,`common_libraries` to explore and run the code.
+3. Open the Jupyter Notebooks `PySparkChronicles_Chapter1_DataExploration.ipynb`,`PySparkChronicles_Chapter2_DataCuration.ipynb`, and `PySparkChronicles_Chapter3_DataProcessingAndML.ipynb`,`project_functions.py`,`common_libraries.py` to explore and run the code.
 
 ## Python Packages
 
