@@ -38,30 +38,57 @@ To run the code in this project, follow these steps:
 ## Python Packages
 
 The project relies on the following Python packages:
-
 ```
+# Spark Data Processing
 from pyspark.sql import SparkSession, DataFrame
-import os, logging, re
+
+# System Interactions
+import os
+import logging
+
+# Data Manipulation (Spark SQL)
 from pyspark.sql import functions as F
-from pyspark.sql.functions import *  
-from pyspark.sql.types import * 
-from IPython.display import display
+from pyspark.sql.functions import *
+
+# Data Manipulation (pyspark.sql.types)
+from pyspark.sql.types import *
+
+# Visualization Libraries (Optional)
+# Uncomment these lines if you plan to use these libraries
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import OneHotEncoder
-from pyspark.ml.classification import LinearSVC
-from pyspark.ml.classification import LogisticRegression
+
+# Spark Machine Learning
+from pyspark.ml.feature import StringIndexer, OneHotEncoder
+# Comment out the line below if you're not using scikit-learn
+# from sklearn.preprocessing import OneHotEncoder
+
+# Spark Machine Learning Classification Algorithms
+from pyspark.ml.classification import LinearSVC, LogisticRegression
+
+# Spark Machine Learning Feature Engineering
 from pyspark.ml.feature import StringIndexer, VectorAssembler
 from pyspark.ml import Pipeline
-from pyspark.ml.evaluation import MulticlassClassificationEvaluator
-from pyspark.ml.evaluation import BinaryClassificationEvaluator
+
+# scikit-learn Integration (Optional)
+# Uncomment these lines if you plan to use scikit-learn functionalities
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.metrics import accuracy_score, precision_score, recall_score
+# from sklearn.metrics import accuracy_score, precision_score, recall_score
+
+# Data Imbalance Handling (Optional)
+# Uncomment this line if you plan to use SMOTE
 from imblearn.over_sampling import SMOTE
+
+# Spark Machine Learning Feature Scaling (Optional)
+#Uncomment this line if you plan to use StandardScaler
 from pyspark.ml.feature import StandardScaler
+
+# Spark Machine Learning Evaluation
+from pyspark.ml.evaluation import BinaryClassificationEvaluator, MulticlassClassificationEvaluator
+from pyspark.mllib.evaluation import MulticlassMetrics```
 ```
 ## Acknowledgment
 I would like to acknowledge Stackoverflow, ChatGPT, Google Bard as an instrumental aid in the development of this project.
