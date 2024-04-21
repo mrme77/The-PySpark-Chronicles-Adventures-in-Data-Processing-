@@ -21,7 +21,7 @@ This project delves into the analysis of a crime dataset available at [Crime Dat
 
 - **PySparkChronicles_Chapter1_DataExploration.ipynb**: Jupyter Notebook containing basic commands for data exploration using PySpark.
 - **PySparkChronicles_Chapter2_DataCuration.ipynb**: Jupyter Notebook demonstrating various data transformation operations in PySpark.
-- **PySparkChronicles_Chapter3_DataProcessing.ipynb**: Jupyter Notebook for processing dataset and encoding your target variable
+- **PySparkChronicles_Chapter3_DataPreprocessingAndML.ipynb**: Jupyter Notebook for processing dataset and encoding your target variable
 - **common_libraries.py**: File listing the Python dependencies required to run the project.
 - **project_function.py**: File listing all functions required to run the project.
 - **crime_data.csv**: File which reflects incidents of crime in the City of Los Angeles dating back to 2020 (data.gov)
